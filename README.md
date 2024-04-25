@@ -1,5 +1,7 @@
 # Welcome to TAGON 
-#### TAGON is a powerful addon to your html code which is written in javascript that provides you the modern functionalities in a simplified way also it's a free and Open source project
+<img title="tagon" alt="tagon" src="tagon.jpg">
+
+### TAGON is a powerful addon to your html code which is written in javascript that provides you the modern functionalities in a simplified way also it's a free and Open source project
 
 made with ❤ for the developers by [MANIKANDAN SRINIVASALU](https://www.linkedin.com/in/manikandansrinivasalu/)
 ## Effects tags
