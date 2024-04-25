@@ -10,6 +10,7 @@ made with ❤ for the developers by [MANIKANDAN SRINIVASALU](https://www.linkedi
 ```
 minify cdn
 ```html
+<script src="https://cdn.jsdelivr.net/gh/MANIKANDANMLT/tagon@main/file/tagon.min.js"></script>
 ```
 ## Effects tags
 
