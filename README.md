@@ -1,6 +1,15 @@
 # Welcome to TAGON 
 <img title="tagon" alt="tagon" src="tagon.jpg">
 
+![version](https://img.shields.io/badge/version-1.0.0-blue)
+![license](https://img.shields.io/badge/license-MIT-green)
+![creator](https://img.shields.io/badge/creator-Manikandan.S-yellow)
+![language](https://img.shields.io/badge/language-html-purple)
+
+![usage](https://img.shields.io/badge/usage-OpenSource-white)
+![framework size](https://img.shields.io/badge/framework.size-20kb-red)
+![phase](https://img.shields.io/badge/phase-development-orange)
+
 ### TAGON is a powerful addon to your html code which is written in javascript that provides you the modern functionalities in a simplified way also it's a free and Open source project
 
 made with ❤ for the developers by [MANIKANDAN SRINIVASALU](https://www.linkedin.com/in/manikandansrinivasalu/)
@@ -12,6 +21,11 @@ minify cdn
 ```html
 <script src="https://cdn.jsdelivr.net/gh/MANIKANDANMLT/tagon@main/file/tagon.min.js"></script>
 ```
+# NPM
+```node
+npm i tagon
+```
+[NPM link](https://www.npmjs.com/package/tagon)
 ## Effects tags
 
 - ### blur-it
