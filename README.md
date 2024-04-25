@@ -4,6 +4,13 @@
 ### TAGON is a powerful addon to your html code which is written in javascript that provides you the modern functionalities in a simplified way also it's a free and Open source project
 
 made with ❤ for the developers by [MANIKANDAN SRINIVASALU](https://www.linkedin.com/in/manikandansrinivasalu/)
+# CDN
+```html
+<script src="https://cdn.jsdelivr.net/gh/MANIKANDANMLT/tagon@main/file/tagon.js"></script>
+```
+minify cdn
+```html
+```
 ## Effects tags
 
 - ### blur-it
