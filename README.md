@@ -32,9 +32,9 @@ npm i tagon
 this tag helps to blur the content in a html page
 
 ```html
-    <blue-it value="2">
+    <blur-it value="2">
         sample text
-    </blue-it>
+    </blur-it>
 ```
 | attribute    | value |
 | :--------: | :-------: |
