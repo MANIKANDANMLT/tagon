@@ -162,7 +162,7 @@ it displays on the screen only for 4 seconds if you need you can apply css styli
 - ### go-up
 this tag push you to the top of the page and completely customizable by css
 ```html
-<go-up text="write your text"></-up>
+<go-up text="write your text"></go-up>
 ```
 
 - ### scroll-progress
